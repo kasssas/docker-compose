@@ -78,9 +78,8 @@ npm start
 
 - Open App `localhost:3000`.
 
-![img_1](https://github.com/user-attachments/assets/ee0eb0c6-c053-49e2-858c-55622a939372)
-
-![img_2](https://github.com/user-attachments/assets/d6f42871-c0c6-4d8f-93b3-4371b8ec15ca)
+![1](https://github.com/user-attachments/assets/f7f28f1b-8fee-48d6-b66a-c234b3c73c91)
+![2](https://github.com/user-attachments/assets/6b3ad353-fc34-4ff1-a50b-b0ee9a7159be)
 
 
 
@@ -95,13 +94,13 @@ Ensure Docker is installed on your system. Follow the official [Docker Installat
 ```bash
     docker build -t < dockerhubacc/frontend_image_name > .
 ```
-![img_3](https://github.com/user-attachments/assets/062af6a7-27e3-4d4a-8bd2-90f03ebac129)
+![3](https://github.com/user-attachments/assets/527bc7a8-bdf4-4df0-898e-dfb6646d64c2)
 
 - backendend image
 ```bash
     docker build -t < dockerhubacc/backend_image_name > .
 ```
-![img_4](https://github.com/user-attachments/assets/e146e873-1594-416c-b61d-a63a99e6aa09)
+![4](https://github.com/user-attachments/assets/39568a8d-259b-412d-9618-b2bb4b0ec22d)
 
 
 ## Run Dockerfile
@@ -126,14 +125,13 @@ Ensure Docker is installed on your system. Follow the official [Docker Installat
 ```bash
     docker compose up -d
 ```
-![img_5](https://github.com/user-attachments/assets/da152a7f-637c-41c9-8561-af3fefa5f317)
+![5](https://github.com/user-attachments/assets/eb949f91-7ace-4599-b23c-fffa16683c8e)
 
 - Access Services `localhost:3000`.
 
-![img_1](https://github.com/user-attachments/assets/ee0eb0c6-c053-49e2-858c-55622a939372)
-
-![img_2](https://github.com/user-attachments/assets/d6f42871-c0c6-4d8f-93b3-4371b8ec15ca)
-![loc](https://github.com/user-attachments/assets/dc070cea-4a2f-4ca2-ad23-1fff3e288bc0)
+![1](https://github.com/user-attachments/assets/f7f28f1b-8fee-48d6-b66a-c234b3c73c91)
+![2](https://github.com/user-attachments/assets/6b3ad353-fc34-4ff1-a50b-b0ee9a7159be)
+![loc](https://github.com/user-attachments/assets/945f99db-aef8-406d-9430-536f6d348e31)
 
 
 # Kubernetes Deployment for My Application
@@ -339,17 +337,16 @@ sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 
 1. **Credentials**
 
-![img_7](https://github.com/user-attachments/assets/72fd19e0-11f8-4017-892e-07937c617f09)
+![a](https://github.com/user-attachments/assets/aff13c0a-0015-45ce-bb8e-efdd38f3686a)
 
-![img_8](https://github.com/user-attachments/assets/c4f9756f-358b-49d8-ac4e-e9dbf8a82dde)
+![b](https://github.com/user-attachments/assets/28c85ffd-2dbf-4c17-b59e-da8f94e7e0dd)
 
-![img_9](https://github.com/user-attachments/assets/72d3025c-d307-4423-875f-e65ea35d7652)
+![c](https://github.com/user-attachments/assets/2a723a40-d4cf-416c-abe7-6cde7a3b9ff7)
 
 # 2. **Build**
 
-![img_10](https://github.com/user-attachments/assets/1de855f3-9093-418f-847e-1e04470d799a)
+![d](https://github.com/user-attachments/assets/9996493f-c7b7-458c-a48b-72bf133a3ce4)
 
 
-![imgg_11](https://github.com/user-attachments/assets/895cc976-cc3e-4daf-a617-8026a182c227)
-
-![img_12](https://github.com/user-attachments/assets/f634b008-7838-41f0-ad5f-5d7a7bcb6f42)
+![e](https://github.com/user-attachments/assets/26c59197-a857-4306-b55b-71c22172128d)
+![f](https://github.com/user-attachments/assets/f8367fb6-0cc7-4af1-a28c-a64fd63e18a3)
